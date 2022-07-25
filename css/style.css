@@ -826,7 +826,7 @@ h1, h2, h3, h4, h5, p {
 @media (max-width: 1080px) {
     /* Block 1 */
     .block-1 {
-        background: url(../img/u2_state0.jpg) no-repeat center/cover;
+        background: url(../img/main-bg.jpg) no-repeat center/cover;
     }
 
     .text h1 {
