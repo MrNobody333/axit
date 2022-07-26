@@ -198,15 +198,13 @@ h1, h2, h3, h4, h5, p {
     font: 600 15px 'Open Sans', sans-serif;
     color: #fff;
     background-color: #ff9b51;
-    border: 1px solid #ff9b51;  
+    border: none;  
     border-radius: 0 0 3px 3px; 
-    transition: background-color .2s linear,
-    border-color .2s linear;
+    transition: background-color .2s linear;
 }
 
 .btn button:hover {
     background-color: #e18a47;
-    border-color: #e18a47;
     cursor: pointer;
 }
 
