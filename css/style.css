@@ -832,6 +832,10 @@ h1, h2, h3, h4, h5, p {
         line-height: 40px;
     }
 
+    .btn button {
+       margin-top: -1px;
+    }
+
     /* Block 2 */
     .flex-wrapper-3 {
         padding-top: 55px;
@@ -1047,10 +1051,6 @@ h1, h2, h3, h4, h5, p {
         text-align: center;
     }
 	
-    .btn button {
-       margin-top: -1px;
-    }
-
     /* Block 2 */
     .tab-button a {
         display: table;
